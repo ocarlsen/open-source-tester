@@ -33,7 +33,7 @@ public abstract class ExampleTest {
         inOrder.verifyNoMoreInteractions();
     }
 
-    private static class MyLoggingClass {
+    static class MyLoggingClass {
 
         private final Logger logger = LoggerFactory.getLogger(getClass().getSimpleName());
 

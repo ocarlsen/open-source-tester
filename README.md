@@ -1,8 +1,16 @@
 # open-source-tester
+
 Project for testing various Open Source projects
 
-## Archetype
+## mock-slf4j-impl
 
-Project created with:
+ExampleTest with different versions.
+ 
+* [1.2.1](mock-slf4j-impl/1.2.1)
+* [1.2.1-SNAPSHOT](mock-slf4j-impl/1.2.1-SNAPSHOT)
+* TODO: 2.2.0
+* [2.2.0-SNAPSHOT](mock-slf4j-impl/2.0.0-SNAPSHOT)
 
-    mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-simple -DarchetypeVersion=1.4
+## slf4j-log-level
+
+TODO
