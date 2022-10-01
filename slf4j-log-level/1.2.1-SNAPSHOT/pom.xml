@@ -6,19 +6,19 @@
 
     <parent>
         <groupId>com.ocarlsen.x</groupId>
-        <artifactId>mock-slf4j-impl</artifactId>
+        <artifactId>slf4j-log-level</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>mock-slf4j-impl-1.2.1</artifactId>
+    <artifactId>slf4j-log-level-1.2.1-SNAPSHOT</artifactId>
 
     <dependencies>
 
         <!-- Compile -->
         <dependency>
-            <groupId>com.ocarlsen.test</groupId>
-            <artifactId>mock-slf4j-impl</artifactId>
-            <version>1.2.1</version>
+            <groupId>com.ocarlsen.logging</groupId>
+            <artifactId>slf4j-log-level</artifactId>
+            <version>1.2.1-SNAPSHOT</version>
         </dependency>
 
         <!-- Test -->

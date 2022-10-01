@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>mock-slf4j-impl</artifactId>
+    <artifactId>slf4j-log-level</artifactId>
     <packaging>pom</packaging>
 
     <properties>
@@ -21,7 +21,9 @@
     <modules>
         <module>1.2.1</module>
         <module>1.2.1-SNAPSHOT</module>
+<!--
         <module>2.0.0</module>
         <module>2.0.0-SNAPSHOT</module>
+-->
     </modules>
 </project>

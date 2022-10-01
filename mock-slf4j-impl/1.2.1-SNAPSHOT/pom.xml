@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.ocarlsen</groupId>
+        <groupId>com.ocarlsen.x</groupId>
         <artifactId>mock-slf4j-impl</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>1.2.1-SNAPSHOT</artifactId>
+    <artifactId>mock-slf4j-impl-1.2.1-SNAPSHOT</artifactId>
 
     <dependencies>
 

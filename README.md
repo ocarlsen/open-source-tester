@@ -13,4 +13,5 @@ ExampleTest with different versions.
 
 ## slf4j-log-level
 
-TODO
+* [1.2.1](slf4j-log-level/1.2.1)
+* [1.2.1-SNAPSHOT](slf4j-log-level/1.2.1-SNAPSHOT)
