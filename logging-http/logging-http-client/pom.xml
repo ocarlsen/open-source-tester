@@ -6,17 +6,20 @@
 
     <parent>
         <groupId>com.ocarlsen.x</groupId>
-        <artifactId>open-source-tester</artifactId>
+        <artifactId>logging-http</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>slf4j-log-level</artifactId>
+    <artifactId>logging-http-client</artifactId>
     <packaging>pom</packaging>
 
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
     <modules>
-        <module>1.2.1</module>
-        <module>1.2.1-SNAPSHOT</module>
-        <module>2.0.0</module>
-        <module>2.0.0-SNAPSHOT</module>
+        <module>logging-http-client-apache</module>
     </modules>
+
 </project>

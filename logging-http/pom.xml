@@ -10,13 +10,11 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>slf4j-log-level</artifactId>
+    <artifactId>logging-http</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-        <module>1.2.1</module>
-        <module>1.2.1-SNAPSHOT</module>
-        <module>2.0.0</module>
-        <module>2.0.0-SNAPSHOT</module>
+        <module>logging-http-client</module>
+        <module>logging-http-server</module>
     </modules>
 </project>
