@@ -15,5 +15,6 @@
 
     <modules>
         <module>1.0.0-SNAPSHOT</module>
+        <module>1.0.0</module>
     </modules>
 </project>
